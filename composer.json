@@ -1,0 +1,26 @@
+{
+  "name": "orchid/platform",
+  "description": "Foundation of the Orchid Platform",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alexandr Chernyaev",
+      "email": "bliz48rus@gmail.com"
+    },
+    {
+      "name": "Vladimir Yuldashev",
+      "email": "misterio92@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=7.0",
+    "laravel/framework": "5.4.*"
+  },
+  "config": {
+    "preferred-install": "dist",
+    "sort-packages": true
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
